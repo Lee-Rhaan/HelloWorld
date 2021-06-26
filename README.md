@@ -26,7 +26,7 @@
 
 ---
 ## If the user typed in his/her name:
-- Then program will execute a greeting message.
+- Then the program will execute a greeting message.
 --- 
 ![Screenshot (134)](https://user-images.githubusercontent.com/81378094/121896904-1b90f900-cd22-11eb-8fb9-1bf14aff6fdf.png)
 
